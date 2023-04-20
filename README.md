@@ -5,7 +5,7 @@ This is a simple project showcasing a web page made with HTML and Bootstrap. The
 ## Getting Started
 
 To view the project, simply open the `index.html` file in your web browser.
-[DEMO OF THE PROJECT]()
+[DEMO OF THE PROJECT](https://kaissabbegh.github.io/Tindog-Startup-Website/)
 
 ## Built With
 
